@@ -73,5 +73,5 @@ The original video experiments that were used in this work are available through
 The results of the computational time evaluation of our and the baseline systems for each video experiment are available <a href="./computational-time">here</a>.
 
 ### Citataion
-Will be added soon
+Will be added soon.
 

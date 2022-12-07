@@ -42,7 +42,9 @@ Video experiments are available in the video directory.
 Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
 6. Run copy of CFSystem.ipynp
 
-### Building and Training the CNN Architectures
+---
+### CNN Models
+#### Building and Training the CNN Architectures
 1. Clone the repository in your directory.
 ```
 git clone https://github.com/abualia4/CloudFast-DL4PuDe.git
@@ -54,8 +56,13 @@ pip install tensorflow
 ```
 3. Open this <a href="training-and-building-CNN-models/%20buildingAndTrainingCNNArchitectures.ipynb">notebook</a> and follow the guides.
 
-### Trained CNN Models
+#### Trained CNN Models
+The trained CNN models are available in the links below.
 1. <a href="https://drive.google.com/drive/folders/1AHGJt4EQS3yWWKiihL8pE8QUUZZUdUim?usp=sharing"> Trained models in related work</a>.
 2. <a href="https://drive.google.com/drive/folders/1p9NyGnij4tFhZWvscpP6KnCgcuhHV0eK?usp=share_link"> Trained popular CNN models</a>.
+
+### Video Experiments
+The original video experiments that were used in this work are available through the <a href="http://ped.fz-juelich.de/da">Pedestrian Dynamics Data Archive </a> hosted by the Forschungszentrum Juelich. Moreover, the undistorted videos are available through this <a href="./videos"/>link</a>.
+
 
 

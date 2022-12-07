@@ -27,10 +27,11 @@ The system aims to early detect pushing patches automatically in running and cro
 
 ### How to Use **CloudFast-DL4PuDe** System
 
-1. Click on  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
+ 1. Click on  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
 2. File--> save a copy in drive.
 3. Download the cloud-fast-system directory.
 4. Upload the cloud-fast-system directory to Google Colab at the same location of the copy of CFSystem.ipynp.
+
    ```     
     --Colab NoteBooks
          --copy of CFSystem.ipynp
@@ -40,4 +41,17 @@ The system aims to early detect pushing patches automatically in running and cro
 Video experiments are available in the video directory.
 Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
 6. Run copy of CFSystem.ipynp
+
+### Building and Training the CNN Architectures
+1. Clone the repository in your directory.
+```
+git clone https://github.com/abualia4/CloudFast-DL4PuDe.git
+```
+2. Install the required libraries.
+TensorFlow is the main required library
+```
+pip install tensorflow
+```
+3. Open the <a href="training-and-building-CNN-models/%20buildingAndTrainingCNNArchitectures.ipynb">notebook</a> and follow the guides.
+
 

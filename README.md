@@ -8,11 +8,18 @@
 <img src="./files/characterstcs2.png"/>
 </p>
 
+This repisitory is for the submitted paper
+```
+Ahmed Alia, ---  "A cloud-based deep learning system for improving crowd safety at event entrances", 2022
+```
 ### Goal 
 The system aims to early detect pushing patches automatically in running and crowded event entrances,  particularly in the live camera stream of entries.
 ### Motivation
  The motivation of the system is to help the organizers to make timely decisions before hazardous accidents develop and ensure smoother flows at entrances with higher levels of comfort and safety.
-```
-Ahmed Alia, ---  "Cloud-based Deep Learning System for Improving Crowd Safety at Event Entrances", 2022
-```
+ 
+### The Architicture of **CloudFast-DL4PuDe**
+<p align='center'>
+<img src="./architicture.png"/>
+</p>
+
 

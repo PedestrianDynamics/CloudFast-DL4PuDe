@@ -26,7 +26,7 @@ The system aims to early detect pushing patches automatically in running and cro
 2. Some of <a href="https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw">this notebook </a> is used for live streaming in our system.
 
 ### How to Use **CloudFast-DL4PuDe** System
-```
+
 1. Click on  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
 2. File--> save a copy in drive.
 3. Download the cloud-fast-system directory.
@@ -40,9 +40,4 @@ The system aims to early detect pushing patches automatically in running and cro
 Video experiments are available in the video directory.
 <a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
 6. Run copy of CFSystem.ipynp
-```
 
-5. For the input stream, we recommend using a virtual camera with one of the video recordings of crowded event entrances.
-Video experiments are available in the video directory.
-<a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
-6. Run copy of CFSystem.ipynp

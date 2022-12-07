@@ -1,8 +1,7 @@
 # **CloudFast-DL4PuDe:** A Cloud-based Deep Learning System for Improving Crowd Safety at Event Entrances
 ---
 
- [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)  ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg)  ![GPU](https://img.shields.io/badge/GPU->8GB-yellow) ![RAM16GB](https://img.shields.io/badge/RAM-16GB-red)  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
+ [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)  ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg)  ![GPU](https://img.shields.io/badge/GPU->8GB-yellow) ![RAM16GB](https://img.shields.io/badge/RAM-16GB-red)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
 
 <p align="center">
 <img src="./files/characterstcs2.png"/>
@@ -19,11 +18,12 @@ The system aims to early detect pushing patches automatically in running and cro
  
 ### The Architicture of **CloudFast-DL4PuDe** System
 <p align='center'>
-<img src="./files/architicture.png"/>
+<img src="./files/architicture.png" width='80%'/>
 </p>
 
 **Notes**
 1. This <a href="https://github.com/princeton-vl/RAFT">RAFT repository</a> is used for optical flow estimation in our system.
 2. Some of <a href="https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw">this notebook </a> is used for live streaming in our system.
 
+### How to Use **CloudFast-DL4PuDe** System
 

@@ -8,7 +8,7 @@
 <img src="./files/characterstcs2.png"/>
 </p>
 
-This repisitory is for the submitted paper
+This repisitory is for the following work
 ```
 Ahmed Alia, ---  "A cloud-based deep learning system for improving crowd safety at event entrances", 2022
 ```

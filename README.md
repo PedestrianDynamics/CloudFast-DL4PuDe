@@ -36,6 +36,13 @@ The system aims to early detect pushing patches automatically in running and cro
          --copy of CFSystem.ipynp
          --cloud-fast-system
          
-5. For the input stream, we recommend using a virtual camera with one of the video recordings of crowded event entrances. Video experiments are available in the video directory. <a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
+5. For the input stream, we recommend using a virtual camera with one of the video recordings of crowded event entrances.
+Video experiments are available in the video directory.
+<a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
 6. Run copy of CFSystem.ipynp
 ```
+
+5. For the input stream, we recommend using a virtual camera with one of the video recordings of crowded event entrances.
+Video experiments are available in the video directory.
+<a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
+6. Run copy of CFSystem.ipynp

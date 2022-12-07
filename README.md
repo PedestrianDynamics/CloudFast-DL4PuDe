@@ -22,4 +22,8 @@ The system aims to early detect pushing patches automatically in running and cro
 <img src="./files/architicture.png"/>
 </p>
 
+**Notes**
+1. This <a href="https://github.com/princeton-vl/RAFT">RAFT repository</a> is used for optical flow estimation in our system.
+2. Some of <a href="https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw">this notebook </a> is used for live streaming in our system.
+
 

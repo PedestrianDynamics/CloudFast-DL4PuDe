@@ -19,7 +19,7 @@ The system aims to early detect pushing patches automatically in running and cro
  
 ### The Architicture of **CloudFast-DL4PuDe**
 <p align='center'>
-<img src="./architicture.png"/>
+<img src="./files/architicture.png"/>
 </p>
 
 

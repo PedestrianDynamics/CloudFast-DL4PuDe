@@ -2,7 +2,7 @@
 ---
 
  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)  ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg)  ![GPU](https://img.shields.io/badge/GPU->8GB-yellow) ![RAM16GB](https://img.shields.io/badge/RAM-16GB-red)  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
 
 <p align="center">
 <img src="./files/characterstcs2.png"/>
@@ -17,7 +17,7 @@ The system aims to early detect pushing patches automatically in running and cro
 ### Motivation
  The motivation of the system is to help the organizers to make timely decisions before hazardous accidents develop and ensure smoother flows at entrances with higher levels of comfort and safety.
  
-### The Architicture of **CloudFast-DL4PuDe**
+### The Architicture of **CloudFast-DL4PuDe** System
 <p align='center'>
 <img src="./files/architicture.png"/>
 </p>

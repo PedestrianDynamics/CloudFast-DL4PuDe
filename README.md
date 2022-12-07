@@ -5,8 +5,9 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
 <p align="center">
-<img src="./files/characterstics.png"/>
+<img src="./files/characterstcs2.png"/>
 </p>
+
 ### Goal 
 The system aims to early detect pushing patches automatically in running and crowded event entrances,  particularly in the live camera stream of entries.
 ### Motivation

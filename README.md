@@ -61,8 +61,17 @@ The trained CNN models are available in the links below.
 1. <a href="https://drive.google.com/drive/folders/1AHGJt4EQS3yWWKiihL8pE8QUUZZUdUim?usp=sharing"> Trained models in related work</a>.
 2. <a href="https://drive.google.com/drive/folders/1p9NyGnij4tFhZWvscpP6KnCgcuhHV0eK?usp=share_link"> Trained popular CNN models</a>.
 
+#### Dataset
+The dataset generated during this work are available from the corresponding authors upon request.
+ 
+ ---
+
 ### Video Experiments
 The original video experiments that were used in this work are available through the <a href="http://ped.fz-juelich.de/da">Pedestrian Dynamics Data Archive </a> hosted by the Forschungszentrum Juelich. Moreover, the undistorted videos are available through this <a href="./videos"/>link</a>.
 
+### Computational Time Evaluation
+The results of the computational time evaluation of our and the baseline systems for each video experiment are available <a href="./computational-time">here</a>.
+
+### Citataion
 
 

@@ -31,13 +31,13 @@ The system aims to early detect pushing patches automatically in running and cro
 2. File--> save a copy in drive.
 3. Download the cloud-fast-system directory.
 4. Upload the cloud-fast-system directory to Google Colab at the same location of the copy of CFSystem.ipynp.
-        
+   ```     
     --Colab NoteBooks
          --copy of CFSystem.ipynp
          --cloud-fast-system
-         
+     ```    
 5. For the input stream, we recommend using a virtual camera with one of the video recordings of crowded event entrances.
 Video experiments are available in the video directory.
-<a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
+Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
 6. Run copy of CFSystem.ipynp
 

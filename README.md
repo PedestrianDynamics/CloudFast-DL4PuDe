@@ -62,7 +62,7 @@ The trained CNN models are available in the links below.
 2. <a href="https://drive.google.com/drive/folders/1p9NyGnij4tFhZWvscpP6KnCgcuhHV0eK?usp=share_link"> Trained popular CNN models</a>.
 
 #### Dataset
-The dataset generated during this work are available from the corresponding authors upon request.
+The dataset generated and used during this work are available from the corresponding authors upon request.
  
  ---
 

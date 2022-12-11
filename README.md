@@ -43,6 +43,22 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
 6. Run copy of CFSystem.ipynp
 
 ---
+### Demo
+**Client side**
+1. How to run
+    * Launch the virtual camera based on the <a href="./videos/entrance2-undistorted-960-540.mp4">entrance2 video experiment</a> and OBS studio software.
+    * Open the Jupyter Notebook (copy of CFSystem.ipynp) and entering the required inputs.
+        -   patch=[2,4]
+        -   roi=[107,55,669,270]
+2. Video of the live camera stream with annotations of the predicted pushing patches.
+ 
+<img src='./file/sample1.gif'/>
+
+3. Video of the live camera stream with annotations of the predicted pushing patches and groun truths.
+ 
+ <img src='./file/sample2.gif'/>
+
+---
 ### CNN Models
 #### Building and Training the CNN Architectures
 1. Clone the repository in your directory.

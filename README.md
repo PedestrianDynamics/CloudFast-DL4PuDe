@@ -58,9 +58,9 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
 6. Run copy of CFSystem.ipynp
 ---
 
-
 ### Demo
 <a name="demo"/>
+
 **Client side**
 1. How to run
     * Launch the virtual camera based on the <a href="./videos/entrance2-undistorted-960-540.mp4">entrance2 video experiment</a> and OBS studio software.

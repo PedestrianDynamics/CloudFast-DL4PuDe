@@ -11,6 +11,7 @@ This repisitory is for the following work
 ```
 Ahmed Alia, ---  "A cloud-based deep learning system for improving crowd safety at event entrances", 2022
 ```
+[Shiny JS events](https://shiny.rstudio.com/articles/js-events.html) 
 ### Goal 
 The system aims to early detect pushing patches automatically in running and crowded event entrances,  particularly in the live camera stream of entries.
 ### Motivation
@@ -18,7 +19,7 @@ The system aims to early detect pushing patches automatically in running and cro
  
 ## Table of Contents
 <hr/>
-1. (The Architicture of CloudFast-DL4PuDe System)[arch]
+1. (The Architicture of CloudFast-DL4PuDe System)[#arch]
 2. (How to use CloudFast-DL4PuDe System)[]
 3. (Demo)[]
 4. (Building and Training the CNN Architectures)[]

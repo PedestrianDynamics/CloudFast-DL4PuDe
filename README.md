@@ -42,6 +42,17 @@ Video experiments are available in the video directory.
 Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
 6. Run copy of CFSystem.ipynp
 ---
+<script type="text/javascript">
+    function imageLoaded() {
+        var element = document.getElementById('testing');
+        element.style.cssText = 'display:none;';
+    }
+</script>
+<div id="testing">
+    <font size="5" color="red">
+        Please wait for the animated GIF to load completely...
+    </font>
+</div>
 ### Demo
 **Client side**
 1. How to run
@@ -49,13 +60,6 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
     * Open the Jupyter Notebook (copy of CFSystem.ipynp) and entering the required inputs.
         -   patch=[2,4]
         -   roi=[107,55,669,270]
-<div id="testing">
-    <font size="5" color="red">
-        Please wait for the animated GIF to load completely...
-    </font>
-</div>
-
-<img src="img/test.jpg" alt="" onload="imageLoaded();">
 2. Video of the live camera stream with annotations of the predicted pushing patches.
  
 <img src='./files/sample1.gif' onload="imageLoaded();"/>

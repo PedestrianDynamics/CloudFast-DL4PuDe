@@ -16,7 +16,19 @@ The system aims to early detect pushing patches automatically in running and cro
 ### Motivation
  The motivation of the system is to help the organizers to make timely decisions before hazardous accidents develop and ensure smoother flows at entrances with higher levels of comfort and safety.
  
+## Table of Contents
+<hr/>
+1. (The Architicture of CloudFast-DL4PuDe System)[arch]
+2. (How to use CloudFast-DL4PuDe System)[]
+3. (Demo)[]
+4. (Building and Training the CNN Architectures)[]
+5. (Trained CNN Models)[]
+6. (Dataset)[]
+7. (Video experiments)[]
+8. (Computational time evaluation)[]
+
 ### The Architicture of **CloudFast-DL4PuDe** System
+#arch
 <p align='center'>
 <img src="./files/architicture.png" width='75%'>
 </p>
@@ -27,7 +39,7 @@ The system aims to early detect pushing patches automatically in running and cro
 
 ### How to Use **CloudFast-DL4PuDe** System
 
- 1. Click on  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
+1. Click on  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
 2. File--> save a copy in drive.
 3. Download the cloud-fast-system directory.
 4. Upload the cloud-fast-system directory to Google Colab at the same location of the copy of CFSystem.ipynp.
@@ -50,7 +62,7 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
         -   patch=[2,4]
         -   roi=[107,55,669,270]
 2. Video of the live camera stream with annotations of the predicted pushing patches,  red boxes represent the predicted patches.
- 
+![](./files/sample1.gif)
 <img src='./files/sample1.gif' />
 
 3. Video of the live camera stream with annotations of the predicted pushing patches and ground truths, red circles refer to ground truths, while the red boxes represent the predicted patches.

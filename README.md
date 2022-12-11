@@ -72,7 +72,7 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
 <br/>
 
 <img src='./files/sample1.gif' />
-
+<br/><br/>
 3. Video of the live camera stream with annotations of the predicted pushing patches and ground truths, red circles refer to ground truths, while the red boxes represent the predicted patches.
 <br/>
  <img src='./files/sample2.gif'  />

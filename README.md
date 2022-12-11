@@ -51,11 +51,11 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
         -   roi=[107,55,669,270]
 2. Video of the live camera stream with annotations of the predicted pushing patches.
  
-<img src='./files/sample1.gif'/>
+<img src='./files/sample1.gif' alt='Please wait for the loading animated GIF'/>
 
 3. Video of the live camera stream with annotations of the predicted pushing patches and groun truths.
  
- <img src='./files/sample2.gif'/>
+ <img src='./files/sample2.gif' alt='Please wait for the loading animated GIF'/>
 
 ---
 ### CNN Models

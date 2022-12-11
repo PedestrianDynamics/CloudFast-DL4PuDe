@@ -38,7 +38,7 @@ The system aims to early detect pushing patches automatically in running and cro
 **Notes**
 1. This <a href="https://github.com/princeton-vl/RAFT">RAFT repository</a> is used for optical flow estimation in our system.
 2. Some of <a href="https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw">this notebook </a> is used for live streaming in our system.
----
+ 
 
 ### How to Use **CloudFast-DL4PuDe** System
 <a name="use"/>
@@ -57,7 +57,7 @@ The system aims to early detect pushing patches automatically in running and cro
 Video experiments are available in the video directory.
 Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
 6. Run copy of CFSystem.ipynp
----
+ 
 
 ### Demo
 <a name="demo"/>
@@ -75,7 +75,7 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
 3. Video of the live camera stream with annotations of the predicted pushing patches and ground truths, red circles refer to ground truths, while the red boxes represent the predicted patches.
 
  <img src='./files/sample2.gif'  />
----
+ 
 
 
 ### CNN Models
@@ -92,7 +92,7 @@ TensorFlow is the main required library
 pip install tensorflow
 ```
 3. Open this <a href="training-and-building-CNN-models/%20buildingAndTrainingCNNArchitectures.ipynb">notebook</a> and follow the guides.
----
+
 
 #### Trained CNN Models
 <a name="models"/>
@@ -106,19 +106,19 @@ The trained CNN models are available in the links below.
 ### Dataset
 <a name="dataset"/>
 The dataset generated and used during this work are available from the corresponding authors upon request.
- ---
+ 
  
 
 ### Video Experiments
 <a name="videos"/>
 The original video experiments that were used in this work are available through the <a href="http://ped.fz-juelich.de/da">Pedestrian Dynamics Data Archive </a> hosted by the Forschungszentrum Juelich. Moreover, the undistorted videos are available through this <a href="./videos"/>link</a>.
----
+ 
 
 
 ### Computational Time Evaluation
 <a name="time"/>
 The results of the computational time evaluation of our and the baseline systems for each video experiment are available <a href="./computational-time">here</a>.
----
+ 
 
 ### Citataion
 Will be added soon.

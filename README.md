@@ -97,8 +97,10 @@ pip install tensorflow
 #### Trained CNN Models
 <a name="models"/>
 The trained CNN models are available in the links below.
-1. <a href="https://drive.google.com/drive/folders/1AHGJt4EQS3yWWKiihL8pE8QUUZZUdUim?usp=sharing"> Trained models in related work</a>.
-2. <a href="https://drive.google.com/drive/folders/1p9NyGnij4tFhZWvscpP6KnCgcuhHV0eK?usp=share_link"> Trained popular CNN models</a>.
+<ul>
+<li> <a href="https://drive.google.com/drive/folders/1AHGJt4EQS3yWWKiihL8pE8QUUZZUdUim?usp=sharing"> Trained models in related work</a>.
+<li> <a href="https://drive.google.com/drive/folders/1p9NyGnij4tFhZWvscpP6KnCgcuhHV0eK?usp=share_link"> Trained popular CNN models</a>.
+</ul>
 ---
 
 ### Dataset

@@ -9,7 +9,7 @@
 
 This repisitory is for the following work
 ```
-Ahmed Alia, ---  "A cloud-based deep learning system for improving crowd safety at event entrances", 2022
+The preprint will be added soon
 ```
 
 ### Goal 
@@ -32,7 +32,7 @@ The system aims to early detect pushing patches automatically in running and cro
 ### The Architicture of **CloudFast-DL4PuDe** System
 <a name="arch"/>
 <p align='center'>
-<img src="./files/architicture.png" width='75%'>
+<img src="./files/architicture.png" width='90%'>
 </p>
 
 **Notes**
@@ -101,7 +101,7 @@ The trained CNN models are available in the links below.
 2. <a href="https://drive.google.com/drive/folders/1p9NyGnij4tFhZWvscpP6KnCgcuhHV0eK?usp=share_link"> Trained popular CNN models</a>.
 ---
 
-#### Dataset
+### Dataset
 <a name="dataset"/>
 The dataset generated and used during this work are available from the corresponding authors upon request.
  ---

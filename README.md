@@ -3,7 +3,6 @@
 <img src="./files/characterstcs2.png"/>
 </p>
 
-
  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)  ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
 
 This repisitory is for the following work
@@ -77,7 +76,6 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
  <img src='./files/sample2.gif'  />
  
 
-
 ### CNN Models
 #### Building and Training the CNN Architectures
 <a name="CNN"/>
@@ -93,7 +91,6 @@ pip install tensorflow
 ```
 3. Open this <a href="training-and-building-CNN-models/%20buildingAndTrainingCNNArchitectures.ipynb">notebook</a> and follow the guides.
 
-
 #### Trained CNN Models
 <a name="models"/>
 The trained CNN models are available in the links below.
@@ -102,24 +99,18 @@ The trained CNN models are available in the links below.
 <li> <a href="https://drive.google.com/drive/folders/1p9NyGnij4tFhZWvscpP6KnCgcuhHV0eK?usp=share_link"> Trained popular CNN models</a>.
 </ul>
 
-
 ### Dataset
 <a name="dataset"/>
 The dataset generated and used during this work are available from the corresponding authors upon request.
  
- 
-
 ### Video Experiments
 <a name="videos"/>
 The original video experiments that were used in this work are available through the <a href="http://ped.fz-juelich.de/da">Pedestrian Dynamics Data Archive </a> hosted by the Forschungszentrum Juelich. Moreover, the undistorted videos are available through this <a href="./videos"/>link</a>.
  
-
-
 ### Computational Time Evaluation
 <a name="time"/>
 The results of the computational time evaluation of our and the baseline systems for each video experiment are available <a href="./computational-time">here</a>.
  
-
 ### Citataion
 Will be added soon.
 

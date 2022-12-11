@@ -19,13 +19,14 @@ The system aims to early detect pushing patches automatically in running and cro
  
 ## Table of Contents
 <hr/>
-*  <a href="#arch">The Architicture of **CloudFast-DL4PuDe** System </a>
-* <a href="#use">How to use CloudFast-DL4PuDe System</a>
-* <a href="#demo">Demo</a>
-* <a href="#CNN">Building and Training the CNN Architectures</a>
-* <a href="#models">Trained CNN Mo</a>
-* <a href="#videos">Video experiments</a>
-* <a href="#time">Computational time evaluation</a>
+<ul>
+<li>  <a href="#arch">The Architicture of **CloudFast-DL4PuDe** System </a>
+<li><a href="#use">How to use CloudFast-DL4PuDe System</a>
+<li> <a href="#demo">Demo</a>
+<li> <a href="#CNN">Building and Training the CNN Architectures</a>
+ <li><a href="#models">Trained CNN Mo</a>
+<li><a href="#videos">Video experiments</a>
+<li><a href="#time">Computational time evaluation</a>
 
 ### The Architicture of **CloudFast-DL4PuDe** System
 <a name="arch"/>

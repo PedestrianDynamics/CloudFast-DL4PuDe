@@ -41,7 +41,6 @@ The system aims to early detect pushing patches automatically in running and cro
 Video experiments are available in the video directory.
 Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
 6. Run copy of CFSystem.ipynp
-
 ---
 ### Demo
 **Client side**
@@ -52,11 +51,11 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
         -   roi=[107,55,669,270]
 2. Video of the live camera stream with annotations of the predicted pushing patches.
  
-<img src='./file/sample1.gif'/>
+<img src='./files/sample1.gif'/>
 
 3. Video of the live camera stream with annotations of the predicted pushing patches and groun truths.
  
- <img src='./file/sample2.gif'/>
+ <img src='./files/sample2.gif'/>
 
 ---
 ### CNN Models

@@ -74,8 +74,9 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
 
 ---
 ### CNN Models
-<a name="CNN"/>
 #### Building and Training the CNN Architectures
+<a name="CNN"/>
+
 1. Clone the repository in your directory.
 ```
 git clone https://github.com/abualia4/CloudFast-DL4PuDe.git

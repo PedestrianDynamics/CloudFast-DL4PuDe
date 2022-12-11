@@ -3,7 +3,6 @@
 <img src="./files/characterstcs2.png"/>
 </p>
 
----
 
  [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)  ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
 
@@ -27,7 +26,7 @@ The system aims to early detect pushing patches automatically in running and cro
  <li><a href="#dataset">Dataset</a>
 <li><a href="#videos">Video experiments</a>
 <li><a href="#time">Computational time evaluation</a>
----
+</ul>
 
 ### The Architicture of **CloudFast-DL4PuDe** System
 <a name="arch"/>

@@ -101,7 +101,7 @@ The trained CNN models are available in the links below.
 <li> <a href="https://drive.google.com/drive/folders/1AHGJt4EQS3yWWKiihL8pE8QUUZZUdUim?usp=sharing"> Trained models in related work</a>.
 <li> <a href="https://drive.google.com/drive/folders/1p9NyGnij4tFhZWvscpP6KnCgcuhHV0eK?usp=share_link"> Trained popular CNN models</a>.
 </ul>
----
+
 
 ### Dataset
 <a name="dataset"/>

@@ -18,7 +18,6 @@ The system aims to early detect pushing patches automatically in running and cro
  The motivation of the system is to help the organizers to make timely decisions before hazardous accidents develop and ensure smoother flows at entrances with higher levels of comfort and safety.
  
 ## Table of Contents
-<hr/>
 <ul>
 <li>  <a href="#arch">The Architicture of **CloudFast-DL4PuDe** System </a>
 <li><a href="#use">How to use CloudFast-DL4PuDe System</a>
@@ -40,6 +39,7 @@ The system aims to early detect pushing patches automatically in running and cro
 
 ### How to Use **CloudFast-DL4PuDe** System
 <a name="use"/>
+
 1. Click on  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
 2. File--> save a copy in drive.
 3. Download the cloud-fast-system directory.
@@ -55,6 +55,7 @@ Video experiments are available in the video directory.
 Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and open source software for virtual camera and live streaming.
 6. Run copy of CFSystem.ipynp
 ---
+
 ### Demo
 <a name="demo"/>
 **Client side**
@@ -64,11 +65,11 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
         -   patch=[2,4]
         -   roi=[107,55,669,270]
 2. Video of the live camera stream with annotations of the predicted pushing patches,  red boxes represent the predicted patches.
-![](./files/sample1.gif)
+
 <img src='./files/sample1.gif' />
 
 3. Video of the live camera stream with annotations of the predicted pushing patches and ground truths, red circles refer to ground truths, while the red boxes represent the predicted patches.
- 
+
  <img src='./files/sample2.gif'  />
 
 ---

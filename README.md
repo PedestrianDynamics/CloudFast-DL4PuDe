@@ -65,7 +65,7 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
 <br/>
 
 <img src='./files/sample1.gif' />
-<br/><br/>
+<br/> 
 
 ### CNN Models
 #### Building and Training the CNN Architectures

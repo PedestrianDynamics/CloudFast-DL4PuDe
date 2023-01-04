@@ -3,18 +3,18 @@
 <img src="./files/characterstcs2.png"/>
 </p>
 
- [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)  ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
+ [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)  ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb) ![GPU](https://img.shields.io/badge/GPU-Yes-yellow)
 
-This repisitory is for the following work
+This repository is for the submitted paper:
 ```
-The preprint will be added soon
+Alia, Ahmed, Mohammed Maree,  Mohcine Chraibi, Anas Toma, and Armin Seyfried. "A cloud-based deep learning system for improving crowd safety at event entrances." 2023.
 ```
 
 ### Goal 
 The system aims to early detect pushing patches automatically in running and crowded event entrances,  particularly in the live camera stream of entries.
 ### Motivation
- The motivation of the system is to help the organizers to make timely decisions before hazardous accidents develop and ensure smoother flows at entrances with higher levels of comfort and safety.
- 
+ The motivation of the system is to help organizers and security forces to intervene early and mitigate dangerous situations.
+
 ## Table of Contents
 <ul>
 <li>  <a href="#arch">The Architicture of CloudFast-DL4PuDe system </a>
@@ -32,11 +32,6 @@ The system aims to early detect pushing patches automatically in running and cro
 <p align='center'>
 <img src="./files/architicture.png" width='90%'>
 </p>
-
-**Notes**
-1. This <a href="https://github.com/princeton-vl/RAFT">RAFT repository</a> is used for optical flow estimation in our system.
-2. Some of <a href="https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw">this notebook </a> is used for live streaming in our system.
- 
 
 ### How to Use **CloudFast-DL4PuDe** System
 <a name="use"/>
@@ -66,15 +61,11 @@ Kinly note that <a href="https://obsproject.com/">OBS studio</a> is free and ope
     * Open the Jupyter Notebook (copy of CFSystem.ipynp) and entering the required inputs.
         -   patch=[2,4]
         -   roi=[107,55,669,270]
-2. Video of the live camera stream with annotations of the predicted pushing patches,  red boxes represent the predicted patches.
+2. Output example:  video of the live camera stream with annotations of the predicted pushing patches,  red boxes represent the predicted pushing patches.
 <br/>
 
 <img src='./files/sample1.gif' />
 <br/><br/>
-3. Video of the live camera stream with annotations of the predicted pushing patches and ground truths, red circles refer to ground truths, while the red boxes represent the predicted patches.
-<br/><br/>
- <img src='./files/sample2.gif'  />
- 
 
 ### CNN Models
 #### Building and Training the CNN Architectures
@@ -110,7 +101,12 @@ The original video experiments that were used in this work are available through
 ### Computational Time Evaluation
 <a name="time"/>
 The results of the computational time evaluation of our and the baseline systems for each video experiment are available <a href="./computational-time">here</a>.
+
+### Acknowledgement
+1. This <a href="https://github.com/princeton-vl/RAFT">RAFT repository</a> is used for optical flow estimation in our system.
+2. Some of <a href="https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw">this notebook </a> is used for live streaming in our system.
  
+
 ### Citataion
 Will be added soon.
 

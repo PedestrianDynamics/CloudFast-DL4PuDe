@@ -3,7 +3,7 @@
 <img src="./files/characterstcs2.png"/>
 </p>
 
- [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)  ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb) ![GPU](https://img.shields.io/badge/GPU-Yes-yellow)
+ [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)  ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb) ![GPU](https://img.shields.io/badge/GPU-Yes-green)  
 
 This repository is for the submitted paper:
 ```
@@ -102,8 +102,8 @@ The original video experiments that were used in this work are available through
 The results of the computational time evaluation of our and the baseline systems for each video experiment are available <a href="./computational-time">here</a>.
 
 ### Acknowledgement
-1. This <a href="https://github.com/princeton-vl/RAFT">RAFT repository</a> is used for optical flow estimation in our system.
-2. Some of <a href="https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw">this notebook </a> is used for live streaming in our system.
+1. Thanks to the authors of <a href="https://github.com/princeton-vl/RAFT"> RAFT repository</a> and the corresponding paper.
+2. Thanks to the author of <a href="https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw">this notebook </a>.
  
 
 ### Citataion

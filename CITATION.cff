@@ -3,9 +3,9 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Alia
     given-names: Ahmed
-    family-names: Maree
+  - family-names: Maree
     given-names: Mohammed
-    family-names: Chraibi
+  - family-names: Chraibi
     given-names: Mohcine    
 title: PedestrianDynamics/CloudFast-DL4PuDe: CloudFast-DL4PuDe
 version: V1.1.0.1

@@ -1,0 +1,13 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Alia
+    given-names: Ahmed
+    family-names: Maree
+    given-names: Mohammed
+    family-names: Chraibi
+    given-names: Mohcine    
+title: PedestrianDynamics/CloudFast-DL4PuDe: CloudFast-DL4PuDe
+version: V1.1.0.1
+doi: 10.5281/zenodo.7570209
+date-released: 2023-01-25

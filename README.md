@@ -3,7 +3,9 @@
 <img src="./files/characterstcs2.png"/>
 </p>
 
- [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)  ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb) ![GPU](https://img.shields.io/badge/GPU-Yes-green)  
+ 
+
+[![DOI](https://zenodo.org/badge/575359837.svg)](https://zenodo.org/badge/latestdoi/575359837) [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)  ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb) ![GPU](https://img.shields.io/badge/GPU-Yes-green)  
 
 This repository is for the submitted paper:
 ```
@@ -103,7 +105,7 @@ The results of the computational time evaluation of our and the baseline systems
 
 ### Acknowledgement
 1. Thanks to the authors of <a href="https://github.com/princeton-vl/RAFT"> RAFT repository</a> and the corresponding paper.
-2. Thanks to the author of <a href="https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw">this notebook </a>.
+2. Thanks to the author of <a href="https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw">Access Webcam for Images and Video notebook </a>.
  
 
 ### Citataion

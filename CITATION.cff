@@ -1,12 +1,29 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
+type: software
 authors:
-  - family-names: Alia
-    given-names: Ahmed
-  - family-names: Maree
-    given-names: Mohammed
-  - family-names: Chraibi
-    given-names: Mohcine    
+  - given-names: Ahmed
+    family-names: Alia
+    email: a.alia@fz-juelich.de
+    affiliation: >-
+      Institute for Advanced Simulation,
+      Forschungszentrum Jülich, 52425, Germany
+    orcid: 'https://orcid.org/0000-0002-3049-4924'
+  - given-names: Mohammed
+    family-names: Maree
+    email: Mohammed.maree@aaup.edu
+    affiliation: >-
+      Information Technology Department, Faculty of
+      Engineering and Information Technology, Arab
+      American University, P.O Box 240, Palestine
+    orcid: 'https://orcid.org/0000-0002-6114-4687'
+  - given-names: Mohcine
+    family-names: Chraibi
+    email: m.chraibi@fz-juelich.de
+    orcid: 'https://orcid.org/0000-0002-0999-6807'
+    affiliation: >-
+      Institute for Advanced Simulation,
+      Forschungszentrum Jülich, 52425, Germany 
 title: PedestrianDynamics/CloudFast-DL4PuDe: CloudFast-DL4PuDe
 version: V1.1.0.1
 doi: 10.5281/zenodo.7570209

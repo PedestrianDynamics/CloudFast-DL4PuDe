@@ -1,6 +1,14 @@
-cff-version: 1.1.0
-message: "If you use this software, please cite it as below."
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.0.1
+title: >-
+  CloudFast-DL4PuDe
+message: 'If you use this software, please cite it as below.'
 type: software
+version: V1.1.0.1
+doi: 10.5281/zenodo.7570209
+date-released: 2023-01-25
 authors:
   - given-names: Ahmed
     family-names: Alia
@@ -23,8 +31,4 @@ authors:
     orcid: 'https://orcid.org/0000-0002-0999-6807'
     affiliation: >-
       Institute for Advanced Simulation,
-      Forschungszentrum Jülich, 52425, Germany 
-title: PedestrianDynamics/CloudFast-DL4PuDe: CloudFast-DL4PuDe
-version: V1.1.0.1
-doi: 10.5281/zenodo.7570209
-date-released: 2023-01-25
+      Forschungszentrum Jülich, 52425, Germany

@@ -1,26 +1,28 @@
-# **CloudFast-DL4PuDe:** A Cloud-based Deep Learning System for Improving Crowd Safety at Event Entrances
-<p align="center">
-<img src="./files/characterstcs2.png"/>
-</p>
+# **CloudFast-DL4PuDe:** A Cloud-based Deep Learning Framework for Early Detection of Pushing at Crowded Event Entrances
 
- 
 
 [![DOI](https://zenodo.org/badge/575359837.svg)](https://zenodo.org/badge/latestdoi/575359837) [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](./LICENSE)  ![Python 3.7 | 3.8](https://img.shields.io/badge/Python-3.7|3.8-blue.svg)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb) ![GPU](https://img.shields.io/badge/GPU-Yes-green)  
 
-This repository is for the submitted paper:
+This repository is for:
+1. The submitted paper:
+
+```
+Alia, Ahmed, Mohammed Maree,  Mohcine Chraibi, Anas Toma, and Armin Seyfried. "A Cloud-based Deep Learning Framework for Early Detection of Pushing at Crowded Event Entrances." 2023.
+```
+2. The preprint version:
 ```
 Alia, Ahmed, Mohammed Maree,  Mohcine Chraibi, Anas Toma, and Armin Seyfried. "A cloud-based deep learning system for improving crowd safety at event entrances." 2023.
 ```
 
 ### Goal 
-The system aims to early detect pushing patches automatically in running and crowded event entrances,  particularly in the live camera stream of entries.
+The framework aims to early detect pushing patches automatically in running and crowded event entrances,  particularly in the live camera stream of entries.
 ### Motivation
- The motivation of the system is to help organizers and security forces to intervene early and mitigate dangerous situations.
+ The motivation of the framework is to help organizers and security forces to intervene early and mitigate dangerous situations.
 
 ## Table of Contents
 <ul>
-<li>  <a href="#arch">The Architicture of CloudFast-DL4PuDe system </a>
-<li><a href="#use">How to use CloudFast-DL4PuDe system</a>
+<li>  <a href="#arch">The Architicture of CloudFast-DL4PuDe framework </a>
+<li><a href="#use">How to use CloudFast-DL4PuDe framework</a>
 <li> <a href="#demo">Demo</a>
 <li> <a href="#CNN">Building and training the CNN architectures</a>
  <li><a href="#models">Trained CNN models</a>
@@ -29,13 +31,13 @@ The system aims to early detect pushing patches automatically in running and cro
 <li><a href="#time">Computational time evaluation</a>
 </ul>
 
-### The Architicture of **CloudFast-DL4PuDe** System
+### The Architicture of **CloudFast-DL4PuDe** Framework
 <a name="arch"/>
 <p align='center'>
 <img src="./files/architicture.png" width='90%'>
 </p>
 
-### How to Use **CloudFast-DL4PuDe** System
+### How to Use **CloudFast-DL4PuDe** Framework
 <a name="use"/>
 
 1. Click on  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abualia4/CloudFast-DL4PuDe/blob/main/CFSystem.ipynb)
@@ -108,6 +110,4 @@ The results of the computational time evaluation of our and the baseline systems
 2. Thanks to the author of <a href="https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw">Access Webcam for Images and Video notebook </a>.
  
 
-### Citataion
-Will be added soon.
 

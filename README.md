@@ -11,7 +11,7 @@ Alia, Ahmed, Mohammed Maree,  Mohcine Chraibi, Anas Toma, and Armin Seyfried. "A
 ```
 2. The preprint version:
 ```
-Alia, Ahmed, Mohammed Maree,  Mohcine Chraibi, Anas Toma, and Armin Seyfried. "A cloud-based deep learning system for improving crowd safety at event entrances." 2023.
+Alia, Ahmed, et al. "A cloud-based deep learning system for improving crowd safety at event entrances." arXiv preprint arXiv:2302.08237 (2023).
 ```
 
 ### Goal 
